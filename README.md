@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mahad Khan — Personal Portfolio
 
 A personal portfolio landing page built with **plain HTML and CSS only**
@@ -45,3 +46,7 @@ This is the portfolio site for **Mahad Khan**, a 7th semester BSCS student at CO
 - Email: mahad7938khan@gmail.com
 - GitHub: [tcintern-022](https://github.com/tcintern-022)
 - LinkedIn: [mahad-khan-11b36a358](https://www.linkedin.com/in/mahad-khan-11b36a358/)
+=======
+# Personal-portfolio
+It is a repository for my personal portfolio website based on HTML and CSS only.
+>>>>>>> 5a7f0bd3b65f0966f396b54c7affaca94377ffce
